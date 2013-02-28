@@ -4,7 +4,7 @@ This is the code used for my blog post "Using Realtime’s migration API with Pu
 
 The code used here based on PubNub's which you can get at [https://github.com/pubnub/pubnub-api/tree/master/app-showcase/performance-meter](https://github.com/pubnub/pubnub-api/tree/master/app-showcase/performance-meter).
 
-For this demo, I am using ORTC's migration API which you can find here
+For this demo, I am using ORTC's migration API which you can find at [https://github.com/pubnub/pubnub-api/tree/master/app-showcase/performance-meter](https://github.com/pubnub/pubnub-api/tree/master/app-showcase/performance-meter).
 
 ## Live demos ##
 Performance meter with PubNub: http://sergiocosta.azurewebsites.net/demos/ortc-pubnub-performance-meter/index.html
